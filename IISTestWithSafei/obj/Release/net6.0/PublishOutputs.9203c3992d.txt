@@ -1,0 +1,7 @@
+E:\Programming\.Net\IIS\IIS 2\Test\IISTestWithSafei\IISTestWithSafei\obj\Release\net6.0\PubTmp\Out\IISTestWithSafei.exe
+E:\Programming\.Net\IIS\IIS 2\Test\IISTestWithSafei\IISTestWithSafei\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Programming\.Net\IIS\IIS 2\Test\IISTestWithSafei\IISTestWithSafei\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Programming\.Net\IIS\IIS 2\Test\IISTestWithSafei\IISTestWithSafei\obj\Release\net6.0\PubTmp\Out\IISTestWithSafei.dll
+E:\Programming\.Net\IIS\IIS 2\Test\IISTestWithSafei\IISTestWithSafei\obj\Release\net6.0\PubTmp\Out\IISTestWithSafei.deps.json
+E:\Programming\.Net\IIS\IIS 2\Test\IISTestWithSafei\IISTestWithSafei\obj\Release\net6.0\PubTmp\Out\IISTestWithSafei.runtimeconfig.json
+E:\Programming\.Net\IIS\IIS 2\Test\IISTestWithSafei\IISTestWithSafei\obj\Release\net6.0\PubTmp\Out\IISTestWithSafei.pdb
